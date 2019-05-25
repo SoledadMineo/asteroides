@@ -4,6 +4,7 @@ import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.image.BufferStrategy;
 import javax.swing.JFrame;
+//prueba
 
 /*
  * To change this license header, choose License Headers in Project Properties.
